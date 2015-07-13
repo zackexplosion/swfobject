@@ -1,0 +1,1 @@
+This page has moved to: http://code.google.com/p/swfobject/wiki/test_suite
